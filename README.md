@@ -6,7 +6,7 @@ The goal of this project is to predict diabetes occurrence using a dataset of he
 **Dataset:** Includes health indicators such as BMI, physical activity levels, cholesterol levels, and demographic and lifestyle factors.  
 **Target Variable:** `diabetes_binary` (1 = Diabetic, 0 = Non-Diabetic).
 
-![Introduction Image](https://www.cdc.gov/diabetes/images/home/diabetes-banner.jpg)
+![Introduction Image]("C:\Users\USER\Pictures\images.jpeg")
 
 ---
 
@@ -118,7 +118,6 @@ Conducted using grid search, which improved the model’s accuracy, precision, r
 - **Improve Lifestyle Factors:** Focus on reducing physical inactivity and managing BMI.
 - **Community Engagement:** Educate communities and collaborate with healthcare providers.
 
-![Conclusions Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/US_Navy_080819-N-2074K-088_U.S._Naval_Hospital_Guam%27s_Diabetes_Clinic_receives_a_recognition_award_from_the_Naval_Facilities_Engineering_Command_%28NAVFAC%29_Safety_Office.jpg/1200px-thumbnail.jpg)
 
 ---
 
